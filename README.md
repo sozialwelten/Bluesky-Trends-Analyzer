@@ -10,8 +10,8 @@ sudo apt install pipx
 pipx ensurepath
 
 # Tool installieren
-git clone https://github.com/yourusername/bluesky-trends.git
-cd bluesky-trends
+git clone https://github.com/sozialwelten/Bluesky-Trends-Analyzer.git
+cd Bluesky-Trends-Analyzer
 pipx install .
 ```
 
@@ -29,7 +29,7 @@ Terminal neu laden: `source ~/.bashrc`
 ## Verwendung
 
 ```bash
-bluesky-trends
+bluesky_trends
 ```
 
 ## Features
